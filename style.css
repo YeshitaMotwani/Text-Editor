@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    background-color:lightcoral;
+}
+p{
+    font-family: Helvetica;
+    font-weight: 520;
+}
+h1{
+    color:white;
+    font-family: Georgia;
+}
